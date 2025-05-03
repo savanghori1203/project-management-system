@@ -1,0 +1,26 @@
+PA-00001 | Object not found
+PA-00002 | Resource already exists
+PA-00003 | Something went wrong
+PA-00004 | Validation failed
+PA-00005 | Authentication failed
+PA-00006 | Authorization failed
+PA-00007 | Access to this resource is forbidden
+PA-00008 | Project name already exists
+PA-00009 | Project does not exists.
+PA-00010 | User does not exists.
+PA-00011 | Email already exist!
+PA-00012 | Invalid username and password
+PA-00013 | Organization name already exists
+PA-00014 | Organization does not exists.
+PA-00015 | Assigned engineer dose not exists.
+PA-00016 | Assigned by engineer dose not exists.
+PA-00017 | Task does not exists.
+PA-00018 |
+PA-00019 |
+PA-00020 |
+PA-00021 |
+PA-00022 |
+PA-00023 |
+PA-00024 |
+PA-00025 |
+PA-00026 |
